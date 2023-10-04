@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.3.2"
+  },
+  "name": "noroff-social-media",
+  "description": "A social media application for noroff students and staff",
+  "version": "0.0.1",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hah98/JavaScript2-CA.git"
+  },
+  "keywords": [
+    "API",
+    "social",
+    "media",
+    "app",
+    "javaScript",
+    "bootstrap"
+  ],
+  "author": "Hibo H <hibo-1998@hotmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hah98/JavaScript2-CA/issues"
+  },
+  "homepage": "https://github.com/hah98/JavaScript2-CA#readme"
+}
